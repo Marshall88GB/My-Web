@@ -1,4 +1,7 @@
-
+body{
+    texy-align:center;
+    
+}
 
 .line {
     border-bottom: 1px solid gray;
