@@ -1,6 +1,6 @@
 body{
     texy-align:center;
-    
+    overflow-x: hidden;
 }
 
 .line {
